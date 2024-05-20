@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716228758430,
+      "tag": "0000_warm_risque",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716236960424,
+      "tag": "0001_modern_swordsman",
+      "breakpoints": true
+    }
+  ]
+}
